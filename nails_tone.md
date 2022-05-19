@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Nails and Tone"
 permalink: https://corbra.github.io/nails_tone/
+---
 
 ### Nails and Tone
 
